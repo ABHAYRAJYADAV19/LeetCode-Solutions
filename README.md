@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0234-palindrome-linked-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -86,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
