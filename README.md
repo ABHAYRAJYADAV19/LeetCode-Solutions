@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [1189-maximum-number-of-balloons](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
@@ -113,12 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3731-find-missing-elements](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Game Theory
 |  |
