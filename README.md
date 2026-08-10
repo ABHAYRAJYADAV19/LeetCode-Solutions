@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0415-add-strings](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Dynamic Programming
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
