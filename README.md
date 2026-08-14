@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -137,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
