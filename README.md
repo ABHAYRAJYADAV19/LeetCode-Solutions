@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [1189-maximum-number-of-balloons](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3731-find-missing-elements](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Game Theory
@@ -170,8 +173,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
