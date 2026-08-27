@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -179,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
