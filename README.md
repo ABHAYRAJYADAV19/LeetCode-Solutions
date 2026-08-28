@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1768-merge-strings-alternately](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
