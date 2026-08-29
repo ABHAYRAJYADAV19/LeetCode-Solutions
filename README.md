@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
