@@ -75,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
