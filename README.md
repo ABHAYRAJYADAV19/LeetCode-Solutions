@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0705-design-hashset) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0706-design-hashmap) |
@@ -225,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ABHAYRAJYADAV19/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
